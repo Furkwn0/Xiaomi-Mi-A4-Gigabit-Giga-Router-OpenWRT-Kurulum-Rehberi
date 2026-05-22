@@ -7,4 +7,6 @@ Konu ile ilgili hiçbir sorumluluk kabul etmemekteyiz.
 ##  Dikkat Etmeniz Gerekenler:
 - modemin stok sürümü 3.0.x ise bunu 2.28.x olan herhangi bir sürüme düşürmeniz gereklidir.
 - Bu yöntem routerın V1 sürümü içindir.
-- indirdiğiniz openwrt frimware.bin dosyasının ismini değiştirdikten sonra değiştirdiğiniz isme göre kod yazmanız 
+- indirdiğiniz openwrt frimware.bin dosyasının ismini değiştirdikten sonra değiştirdiğiniz isme göre komut yazmanız gerekmektedir. 
+- wget komudundaki ip adresini kendindi ip adresinizi yazınız. 
+
