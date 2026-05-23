@@ -31,8 +31,8 @@ python remote_command_execution_vulnerability.py
 - Şifreyide yazdıktan sonra bu ekran gelecektir.
 ### Not:Bu kısımda routerımızın internet ile bağlantısını keselim. (Ana modemden bağlı olan lan kablosunu çıkartalım)
 - Bu sayfayı kapatalım.
-## openwrt frimware.bin dosyasının adresine gidelim ve boş bir kısıma iki tane telnet penceresi açalım
-- ilk telnet penceresinde server açalım.
+## openwrt frimware.bin dosyasının adresine gidelim ve boş bir kısıma iki tane terminal penceresi açalım
+- ilk terminal penceresinde server açalım.
  ```shell
 python -m http.server 8000
 
